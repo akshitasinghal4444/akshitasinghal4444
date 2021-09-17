@@ -6,17 +6,14 @@
 <br>
 
 ##  About Meee ❤
-😄 My name is **Akshita Singhal**
-
-👩‍💻 I'm a student of **B.Tech Computer Science** in **India**
-
-🐱‍💻 I am interested in **Web Development** , **Machine Learning** and **Data Science**
-
-🍭 My favourite language for **DSA** and **general programming** is **C++**
-
-🕵️‍♀️ I also lovee solving **sudokoss**
-
-💬 Ask me about programming in general, I am always
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px" /> My name is **Akshita Singhal**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px"> I'm a student of **B.Tech Computer Science** in **India**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am interested in **Web Development** , **Machine Learning** and **Data Science**
+- My favourite language for **DSA** and **general programming** is **C++**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px">I like **drawing** and **painting** too.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30px"> I also lovee solving **sudokoss**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="30px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- 💬 Ask me about programming in general, I am always
 available to help and learn together.
  
 <!--  
@@ -144,5 +141,5 @@ available to help and learn together.
 -->
 <br>
 
-## I am Open to Opportunities 🤝
+## I am Open to Opportunities<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
