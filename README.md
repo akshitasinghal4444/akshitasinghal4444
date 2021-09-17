@@ -5,17 +5,34 @@
 
 <br>
 
-##  About Meee ❤
+##  About Meee <img src="media/heart.gif" width="50px"> 
 - <img alt="GIF" src="media/wave.gif" width="30px" /> My name is **Akshita Singhal**
 - <img src="media/happy.gif" width="30px"> I'm a student of **B.Tech Computer Science** in **India**
 - <img src="media/Developer.gif" width="40px"> I am interested in **Web Development** , **Machine Learning** and **Data Science**
-- My favourite language for **DSA** and **general programming** is **C++**
+- <img src="media/c.gif" width="30px"> My favourite language for **DSA** and **general programming** is **C++**
 - <img src="media/gandalf_parrot.gif" width="30px">I like **drawing** and **painting** too.
 - <img src="media/game.gif" width="30px"> I also lovee solving **sudokoss**
 - <img alt="GIF" src="media/powerup.gif" width="30px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 - <img alt="GIF" src="media/thoughts.gif" width="40px" />Ask me about programming in general, I am always
 available to help and learn together.
  
+<br>
+
+## My GitHub Status <img src="media/star.gif" width="30px">
+<p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitasinghal4444&count_private=true&theme=radical" alt="Akshita :)" />
+<img  src="https://github-readme-stats.vercel.app/api?username=akshitasinghal4444&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Akshita's GitHub Stats">
+</p>
+
+
+
+<br>
+
+## I am Open to Opportunities<img src="media/Handshake.gif" height="32px">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
+
+
+
 <!--  
   ## My Skills :computer:
 
@@ -112,16 +129,6 @@ available to help and learn together.
 </table>
 
 -->
-
-<br>
-
-## My GitHub Status :star:
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitasinghal4444&count_private=true&theme=radical" alt="Akshita :)" />
-<img  src="https://github-readme-stats.vercel.app/api?username=akshitasinghal4444&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Akshita's GitHub Stats">
-</p>
-
-
 <!--
 ## Want to know more?
 
@@ -139,7 +146,3 @@ available to help and learn together.
 
 
 -->
-<br>
-
-## I am Open to Opportunities<img src="media/Handshake.gif" height="32px">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
