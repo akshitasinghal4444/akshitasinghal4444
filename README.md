@@ -13,7 +13,7 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px">I like **drawing** and **painting** too.
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30px"> I also lovee solving **sudokoss**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="30px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
-- 💬 Ask me about programming in general, I am always
+- <img alt="GIF" src="media/thoughts.gif" width="40px" /> Ask me about programming in general, I am always
 available to help and learn together.
  
 <!--  
