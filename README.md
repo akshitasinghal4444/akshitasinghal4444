@@ -1,5 +1,5 @@
 <p float="left">
-<img  src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+<img  src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="200">
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 </p>
 
@@ -145,4 +145,4 @@ available to help and learn together.
 <br>
 
 ## I am Open to Opportunities 🤝
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
