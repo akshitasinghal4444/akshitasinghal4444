@@ -47,19 +47,19 @@ available to help and learn together.
 
 <br>
 
-## My Skills<img src="media/skills.gif" height="45px">
+## My Skills<img src="media/skills.gif" height="50px">
 
 - **Programming Languages**
 <table>
-<tbody>
- <tr>
-<td align="center" >
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
-<td align="center" width="50%">
-<img height=90px src="media/c.png"> 
-</td>
-</tr>
+ <tbody>
+  <tr>
+   <td align="center" >
+   <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
+   </td>
+   <td align="center" width="50%">
+   <img height=90px src="media/c.png"> 
+   </td>
+  </tr>
  
 <tr>
 <td align="center" >
@@ -115,7 +115,7 @@ available to help and learn together.
 <img height=60px src="media/numpy.jpg"> 
 </td>
 <td align="center" width="33%">
-<img height=70px src="media/pandas.png> 
+<img height=110px  src="media/pandas.png"> 
 </td>
 <td align="center" width="33%">
 <img height=60px src="media/scikit.png"> 
