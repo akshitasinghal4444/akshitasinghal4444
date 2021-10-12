@@ -32,7 +32,7 @@
 - <img src="media/Developer.gif" width="40px"> I am interested in **Web Development** , **Machine Learning** and **Data Science**
 - <img src="media/c.gif" width="30px"> My favourite language for **DSA** and **general programming** is **C++**
 - <img src="media/gandalf_parrot.gif" width="30px">I like **drawing** and **painting** too.
-- <img src="media/game.gif" width="30px"> I also lovee solving **sudokoss**
+- <img src="media/game.gif" width="30px"> I also lovee solving **sudokuss**
 - <img alt="GIF" src="media/powerup.gif" width="30px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 - <img alt="GIF" src="media/thoughts.gif" width="40px" />Ask me about programming in general, I am always
 available to help and learn together.
