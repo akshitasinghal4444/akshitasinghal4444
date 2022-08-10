@@ -16,9 +16,6 @@
 
 
 -->
-
-
-
 <p float="left">
 <img  src="media/hello.gif" width="200">
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
@@ -137,12 +134,15 @@ available to help and learn together.
 </tbody>
 </table>
 
-<hr>
                                        
 <br>
                                      
 ## I am Open to Opportunities<img src="media/Handshake.gif" height="45px">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
 
+<br>
+<br>
 
- 
+## Want to know more? <img src="media/Developer.gif" width="45px">
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-akshitasinghal4444@gmail.com-blue" />](mailto:akshitasinghal4444@gmail.com) <br>
+[<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-akshitasinghal-orange" />](https://leetcode.com/akshitasinghal/) 
