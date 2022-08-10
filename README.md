@@ -27,6 +27,7 @@
 <br>
 
 ##  About Meee <img src="media/heart.gif" width="50px"> 
+<!--
 - <img alt="GIF" src="media/wave.gif" width="30px" /> My name is **Akshita Singhal**
 - <img src="media/happy.gif" width="30px"> I'm a student of **B.Tech Computer Science** in **India**
 - <img src="media/Developer.gif" width="40px"> I am interested in **Web Development** , **Machine Learning** and **Data Science**
@@ -36,7 +37,18 @@
 - <img alt="GIF" src="media/powerup.gif" width="30px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 - <img alt="GIF" src="media/thoughts.gif" width="40px" />Ask me about programming in general, I am always
 available to help and learn together.
+ -->
  
+-  My name is **Akshita Singhal**
+-  I'm a student of **B.Tech Computer Science** in **India**
+-  I am interested in **Web Development** , **Machine Learning** and **Data Science**
+-  My favourite language for **DSA** and **general programming** is **C++**
+-  I like **drawing** and **painting** too.
+-  I also lovee solving **sudokuss**
+-  **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+-  Ask me about programming in general, I am always
+available to help and learn together.
+
 <br>
 
 ## My GitHub Status <img src="media/star.gif" width="40px">
